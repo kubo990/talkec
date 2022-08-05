@@ -1,0 +1,16 @@
+C:\Projects\Playground2\Playground2\bin\Debug\net5.0\Playground2.exe
+C:\Projects\Playground2\Playground2\bin\Debug\net5.0\Playground2.deps.json
+C:\Projects\Playground2\Playground2\bin\Debug\net5.0\Playground2.runtimeconfig.json
+C:\Projects\Playground2\Playground2\bin\Debug\net5.0\Playground2.runtimeconfig.dev.json
+C:\Projects\Playground2\Playground2\bin\Debug\net5.0\Playground2.dll
+C:\Projects\Playground2\Playground2\bin\Debug\net5.0\ref\Playground2.dll
+C:\Projects\Playground2\Playground2\bin\Debug\net5.0\Playground2.pdb
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.csproj.AssemblyReference.cache
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.AssemblyInfoInputs.cache
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.AssemblyInfo.cs
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.csproj.CoreCompileInputs.cache
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.dll
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\ref\Playground2.dll
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.pdb
+C:\Projects\Playground2\Playground2\obj\Debug\net5.0\Playground2.genruntimeconfig.cache
